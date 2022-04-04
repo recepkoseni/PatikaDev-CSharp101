@@ -1,0 +1,16 @@
+C:\Users\H379132\Documents\Sites\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\H379132\Documents\Sites\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\H379132\Documents\Sites\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\H379132\Documents\Sites\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\H379132\Documents\Sites\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\H379132\Documents\Sites\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\H379132\Documents\Sites\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\H379132\Documents\Sites\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
